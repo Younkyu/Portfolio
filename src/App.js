@@ -1,6 +1,6 @@
 import React from 'react';
 import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom'
 import './App.css';
 import NavigationBar from './components/NavigationBar/NavigationBar.js';
 import Home from './components/Home/Home.js';
@@ -16,7 +16,7 @@ function App() {
       <Router>
         <NavigationBar />
         <Switch>
-          <Route exact path='/home' component={Home} />
+          <Route exact path='/' component={Home} />
           <Route path='/about' component={About} />
           <Route path='/skills' component={Skills} />
           <Route path='/projects' component={Projects} />
