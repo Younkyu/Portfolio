@@ -18,7 +18,7 @@ function Home() {
                         <img src={require('../../images/linkedin.png')} alt='linkedin icon' className="media-btn" onClick={() => window.open('https://www.linkedin.com/in/younkyu') } />
                         <img src={require('../../images/github.png')} alt='github icon' className="media-btn" onClick={() => window.open('https://github.com/Younkyu') } />
                         <img src={require('../../images/instagram.png')} alt='instagram icon' className="media-btn" onClick={() => window.open('https://www.instagram.com/ohthatdanielkim') } />
-                        <img src={require('../../images/email.png')} alt='email icon' className="media-btn" onClick={() => window.location.href = './contact' } />
+                        <img src={require('../../images/email.png')} alt='email icon' className="media-btn" onClick={() => window.location.href = './#/contact' } />
                     </div>
                 </div>
                 <div id="self-pic">
