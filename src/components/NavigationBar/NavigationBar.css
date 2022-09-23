@@ -1,0 +1,27 @@
+#header-logo {
+    width: 12rem;
+    height: 4rem;
+}
+
+.navbar,
+.navbar-default {
+    background-color: #E5E9EA !important;
+    box-shadow: 0 0.3rem 0.5rem 0rem #CECECE;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.navbar-nav {
+    margin-left: 42vw;
+}
+
+.container {
+    margin-left: unset;
+}
+
+.active, .nav-link:hover {
+    box-shadow: 0 3px 0 0 #0059d4; /* Border bottom */
+}

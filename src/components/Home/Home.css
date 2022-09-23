@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption&family=Ubuntu:wght@700&family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&family=VT323&display=swap');
+
+#preferred-name-text {
+    color: #7B7B7B;
+}
+
+#preferred-name {
+    text-decoration: underline;
+}
+
+#home-page {
+    font-family: 'Roboto Slab', serif;
+    margin-top: 4rem;
+}
+
+#legal-name {
+    color: #0059d4;
+}
+
+.flex-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#introduction > h2 {
+    font-family: 'VT323', monospace;
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+#introduction > h3 {
+    font-weight: 900;
+    font-size: 3rem;
+    font-family: 'Roboto Slab', serif;
+}
+
+#introduction {
+    padding: 2rem;
+}
+
+#link-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.media-btn {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 4rem;
+    height: 4rem;
+}
+
+.media-btn:hover {
+    cursor: pointer;
+}
+
+#self-portrait {
+    width: 24rem;
+    height: 24rem;
+}

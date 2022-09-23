@@ -1,26 +1,28 @@
-import logo from './logo.svg';
+import React from 'react';
+import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
-import Button from "react-bootstrap/Button";
-import "bootstrap/dist/css/bootstrap.min.css";
+import NavigationBar from './components/NavigationBar/NavigationBar.js';
+import Home from './components/Home/Home.js';
+import About from './components/About/About.js';
+import Skills from './components/Skills/Skills.js';
+import Projects from './components/Projects/Projects.js';
+import Contact from './components/Contact/Contact.js';
+import background from './images/repeated-square-background.png';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <Button>HELLO</Button>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div id='background' style={{ backgroundImage: `url(${background})` }}>
+      <Router>
+        <NavigationBar />
+        <Switch>
+          <Route exact path='/home' component={Home} />
+          <Route path='/about' component={About} />
+          <Route path='/skills' component={Skills} />
+          <Route path='/projects' component={Projects} />
+          <Route path='/contact' component={Contact} />
+        </Switch>
+      </Router>
     </div>
   );
 }
