@@ -11,17 +11,10 @@
 
 #home-page {
     font-family: 'Roboto Slab', serif;
-    margin-top: 4rem;
 }
 
 #legal-name {
     color: #0059d4;
-}
-
-.flex-box {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
 }
 
 #introduction > h2 {

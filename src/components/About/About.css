@@ -1,0 +1,43 @@
+#about-page {
+    height: fit-content;
+}
+
+#about-page h2 {
+    font-weight: 800;
+    font-size: 2rem;
+    margin: 0;
+}
+
+#about-page h3 {
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #AEAEAE;
+}
+
+#bitmoji {
+    width: 15rem;
+    height: 15rem;
+}
+
+#about-page-intro {
+    padding-left: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+#bitmoji-and-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0;
+}
+
+#personal-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#resume-btn {
+    width: 30%;
+}

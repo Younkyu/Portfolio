@@ -3,10 +3,10 @@
     height: 4rem;
 }
 
-.navbar,
-.navbar-default {
+.navbar {
     background-color: #E5E9EA !important;
     box-shadow: 0 0.3rem 0.5rem 0rem #CECECE;
+    margin-bottom: 2rem;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {

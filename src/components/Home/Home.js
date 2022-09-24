@@ -6,7 +6,7 @@ function Home() {
 
     return (
         <>
-            <div id="home-page" className="flex-box">
+            <div id="home-page" className="horizontal-flex-box">
                 <div>
                     <div className="page-body box-container" id="introduction">
                         <h2>Hello World!_</h2>
