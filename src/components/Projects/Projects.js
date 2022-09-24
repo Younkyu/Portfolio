@@ -1,8 +1,13 @@
 import './Projects.css';
+import ProjectList from '../ProjectList/ProjectList.js'
 
 function Projects() {
     return (
-        <h1>Projects Page</h1>
+        <>
+            <div id='projects-page' className='center-content box-container vertical-flex-box'>
+                <ProjectList />
+            </div>
+        </>
     );
 }
 
