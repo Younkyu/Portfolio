@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.744f6017.css",
-    "main.js": "/Portfolio/static/js/main.8d877f4f.js",
+    "main.css": "/Portfolio/static/css/main.04e633aa.css",
+    "main.js": "/Portfolio/static/js/main.cebdada8.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/gutendext-screenshot.jpg": "/Portfolio/static/media/gutendext-screenshot.33e019d617aba314fc53.jpg",
     "static/media/java-logo.png": "/Portfolio/static/media/java-logo.07101c69312e7f028de4.png",
     "static/media/python-logo.png": "/Portfolio/static/media/python-logo.c44b9b809ebf766cbb4f.png",
     "static/media/bitmoji.png": "/Portfolio/static/media/bitmoji.dcd492ce13c2d8d5a64e.png",
     "static/media/react-logo.png": "/Portfolio/static/media/react-logo.2afe8019efe53a8eff12.png",
+    "static/media/crane-screenshot.jpg": "/Portfolio/static/media/crane-screenshot.efe1051866fc816d919e.jpg",
     "static/media/c-logo.png": "/Portfolio/static/media/c-logo.e3840907d97777f7601f.png",
+    "static/media/wordle-screenshot.jpg": "/Portfolio/static/media/wordle-screenshot.e6ad359e84f4047cb510.jpg",
+    "static/media/portfolio-screenshot.jpg": "/Portfolio/static/media/portfolio-screenshot.0530ae3a2ca9cd88a876.jpg",
+    "static/media/boardgame-screenshot.jpg": "/Portfolio/static/media/boardgame-screenshot.bc157f431477a50d10b5.jpg",
     "static/media/nodejs-logo.png": "/Portfolio/static/media/nodejs-logo.d980d9636ace07ad3dde.png",
     "static/media/selfportrait.png": "/Portfolio/static/media/selfportrait.9aed5ce3d982ddf3f9c9.png",
     "static/media/YKIM_RESUME.pdf": "/Portfolio/static/media/YKIM_RESUME.7e2d1482c79e831e3194.pdf",
@@ -25,12 +30,12 @@
     "static/media/mysql-logo.png": "/Portfolio/static/media/mysql-logo.67c48b012164d107eef0.png",
     "static/media/css-logo.png": "/Portfolio/static/media/css-logo.5721a3928fe43de6baf8.png",
     "index.html": "/Portfolio/index.html",
-    "main.744f6017.css.map": "/Portfolio/static/css/main.744f6017.css.map",
-    "main.8d877f4f.js.map": "/Portfolio/static/js/main.8d877f4f.js.map",
+    "main.04e633aa.css.map": "/Portfolio/static/css/main.04e633aa.css.map",
+    "main.cebdada8.js.map": "/Portfolio/static/js/main.cebdada8.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.744f6017.css",
-    "static/js/main.8d877f4f.js"
+    "static/css/main.04e633aa.css",
+    "static/js/main.cebdada8.js"
   ]
 }
