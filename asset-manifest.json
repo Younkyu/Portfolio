@@ -1,23 +1,35 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.fb97932d.css",
-    "main.js": "/Portfolio/static/js/main.b4eb6a58.js",
+    "main.css": "/Portfolio/static/css/main.6fe773e8.css",
+    "main.js": "/Portfolio/static/js/main.1c906b6f.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/java-logo.png": "/Portfolio/static/media/java-logo.07101c69312e7f028de4.png",
+    "static/media/python-logo.png": "/Portfolio/static/media/python-logo.c44b9b809ebf766cbb4f.png",
     "static/media/bitmoji.png": "/Portfolio/static/media/bitmoji.dcd492ce13c2d8d5a64e.png",
+    "static/media/react-logo.png": "/Portfolio/static/media/react-logo.2afe8019efe53a8eff12.png",
+    "static/media/c-logo.png": "/Portfolio/static/media/c-logo.e3840907d97777f7601f.png",
+    "static/media/nodejs-logo.png": "/Portfolio/static/media/nodejs-logo.d980d9636ace07ad3dde.png",
     "static/media/selfportrait.png": "/Portfolio/static/media/selfportrait.9aed5ce3d982ddf3f9c9.png",
     "static/media/YKIM_RESUME.pdf": "/Portfolio/static/media/YKIM_RESUME.7e2d1482c79e831e3194.pdf",
+    "static/media/javascript-logo.png": "/Portfolio/static/media/javascript-logo.42763b293014dd8309c4.png",
     "static/media/logo.png": "/Portfolio/static/media/logo.790512b10b1404c55f26.png",
     "static/media/email.png": "/Portfolio/static/media/email.aa61c6d17a6516a3f3c2.png",
     "static/media/linkedin.png": "/Portfolio/static/media/linkedin.2f03542c42091437b67b.png",
+    "static/media/angularjs-logo.png": "/Portfolio/static/media/angularjs-logo.d3b351f8f4b5c5da65a7.png",
+    "static/media/c-sharp-logo.png": "/Portfolio/static/media/c-sharp-logo.48195cec3a5af73c77f8.png",
+    "static/media/mongodb-logo.png": "/Portfolio/static/media/mongodb-logo.a8889d623357ad8ce30e.png",
     "static/media/instagram.png": "/Portfolio/static/media/instagram.2388b4ec1aa70a588b78.png",
     "static/media/repeated-square-background.png": "/Portfolio/static/media/repeated-square-background.2c1b7eeae5d20fbb7f97.png",
+    "static/media/figma-logo.png": "/Portfolio/static/media/figma-logo.152e55329b6f1915967e.png",
+    "static/media/mysql-logo.png": "/Portfolio/static/media/mysql-logo.67c48b012164d107eef0.png",
+    "static/media/css-logo.png": "/Portfolio/static/media/css-logo.5721a3928fe43de6baf8.png",
     "index.html": "/Portfolio/index.html",
-    "main.fb97932d.css.map": "/Portfolio/static/css/main.fb97932d.css.map",
-    "main.b4eb6a58.js.map": "/Portfolio/static/js/main.b4eb6a58.js.map",
+    "main.6fe773e8.css.map": "/Portfolio/static/css/main.6fe773e8.css.map",
+    "main.1c906b6f.js.map": "/Portfolio/static/js/main.1c906b6f.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb97932d.css",
-    "static/js/main.b4eb6a58.js"
+    "static/css/main.6fe773e8.css",
+    "static/js/main.1c906b6f.js"
   ]
 }
