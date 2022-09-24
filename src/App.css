@@ -38,3 +38,15 @@
     width: 85%;
     height: 70%;
 }
+
+.wrap-box {
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.scroll-div {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    overflow-y: scroll;
+    white-space: nowrap;
+}
