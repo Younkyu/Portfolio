@@ -14,6 +14,7 @@ function About() {
                             <p>Age: 22</p>
                             <p>Gender: Male</p>
                             <p>Ethnicity: Korean</p>
+                            <p>Status: New grad</p>
                         </div>
                         <a href={Pdf} without rel="noopener noreferrer" target="_blank">
                             <Button trailingIcon="picture_as_pdf" label="Resume" id='resume-btn' variant='primary'>Resume</Button>
