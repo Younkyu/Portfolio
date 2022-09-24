@@ -26,7 +26,7 @@ function Skills() {
             <div>
                 <h2 id="skills-page-title">Skills and Tools</h2>
             </div>
-            <div className="box-container center-content horizontal-flex-box wrap-box scroll-div">
+            <div id="skills-box" className="box-container center-content horizontal-flex-box wrap-box scroll-div">
                 <HoverText labelText='AngularJS' image={AngularIcon} altText='angular logo' />
                 <HoverText labelText='Bootstrap' image={BootstrapIcon} altText='bootstrap logo' />
                 <HoverText labelText='C++' image={CIcon} altText='c++ logo' />
