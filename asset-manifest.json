@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.40c7fed0.css",
-    "main.js": "/Portfolio/static/js/main.e8c271bb.js",
+    "main.css": "/Portfolio/static/css/main.40dcd0dc.css",
+    "main.js": "/Portfolio/static/js/main.bd193669.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/java-logo.png": "/Portfolio/static/media/java-logo.07101c69312e7f028de4.png",
     "static/media/python-logo.png": "/Portfolio/static/media/python-logo.c44b9b809ebf766cbb4f.png",
@@ -13,6 +13,7 @@
     "static/media/YKIM_RESUME.pdf": "/Portfolio/static/media/YKIM_RESUME.7e2d1482c79e831e3194.pdf",
     "static/media/javascript-logo.png": "/Portfolio/static/media/javascript-logo.42763b293014dd8309c4.png",
     "static/media/logo.png": "/Portfolio/static/media/logo.790512b10b1404c55f26.png",
+    "static/media/contact.png": "/Portfolio/static/media/contact.02d94303b34fadf7316b.png",
     "static/media/email.png": "/Portfolio/static/media/email.aa61c6d17a6516a3f3c2.png",
     "static/media/linkedin.png": "/Portfolio/static/media/linkedin.2f03542c42091437b67b.png",
     "static/media/angularjs-logo.png": "/Portfolio/static/media/angularjs-logo.d3b351f8f4b5c5da65a7.png",
@@ -24,12 +25,12 @@
     "static/media/mysql-logo.png": "/Portfolio/static/media/mysql-logo.67c48b012164d107eef0.png",
     "static/media/css-logo.png": "/Portfolio/static/media/css-logo.5721a3928fe43de6baf8.png",
     "index.html": "/Portfolio/index.html",
-    "main.40c7fed0.css.map": "/Portfolio/static/css/main.40c7fed0.css.map",
-    "main.e8c271bb.js.map": "/Portfolio/static/js/main.e8c271bb.js.map",
+    "main.40dcd0dc.css.map": "/Portfolio/static/css/main.40dcd0dc.css.map",
+    "main.bd193669.js.map": "/Portfolio/static/js/main.bd193669.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40c7fed0.css",
-    "static/js/main.e8c271bb.js"
+    "static/css/main.40dcd0dc.css",
+    "static/js/main.bd193669.js"
   ]
 }
