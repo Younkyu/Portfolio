@@ -11,10 +11,10 @@ function About() {
                         <h2>My name is Younkyu Kim</h2>
                         <h3>Full Stack Web Developer</h3>
                         <div id='personal-info'>
-                            <p>Age: 22</p>
+                            <p>Age: 24</p>
                             <p>Gender: Male</p>
                             <p>Ethnicity: Korean</p>
-                            <p>Status: New grad</p>
+                            <p>Pronouns: He/Him</p>
                         </div>
                         <a href={Pdf} without rel="noopener noreferrer" target="_blank">
                             <Button trailingIcon="picture_as_pdf" label="Resume" id='resume-btn' variant='primary'>Resume</Button>
